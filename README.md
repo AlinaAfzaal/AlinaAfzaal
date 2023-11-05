@@ -2,7 +2,6 @@
 <h3 align="center">A passionate and experienced web developer and Now focusing on Mobile App development using Flutter Framework</h3>
 
 
-- 🔭 I’m currently working on **Wordpress**
 
 - 🌱 I’m currently learning **Flutter**
 
